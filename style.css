@@ -471,3 +471,9 @@ body {
   transform: scale(1.05);
   box-shadow: 0 6px 25px rgba(59, 130, 246, 0.7);
 }
+
+#typing-text {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #1a73e8;
+}
