@@ -58,7 +58,7 @@ const skills = {
   ],
   tools: [
     { name: "Git & GitHub", level: 90 },
-    // { name: "Docker", level: 65 },
+    { name: "Docker", level: 65 },
     // { name: "Linux", level: 70 },
     { name: "CI/CD", level: 60 },
     { name: "Figma", level: 70 }
